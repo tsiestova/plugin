@@ -20,5 +20,8 @@
  
 вставти в [Code Injection Header](./header-code-inj.txt)
 в [Code Injection Footer](./footer-code-inj.txt)
-в [Custom CSS](./custom.css) не весь less, а лише :root{} та стилі лише де використовуються ці змінні, 
+в [Custom CSS](./custom.css) не весь less, а лише :root{} та стилі де використовуються ці змінні, перед цим
 [форматуємо](https://www.cssportal.com/css-formatter/) та [мініфікуємо](https://www.toptal.com/developers/cssminifier)  
+
+формуємо [гугл.док](./google.doc.txt)
+ще один [приклад](https://docs.google.com/document/d/1MAMlTs1WrFsj3fd9u_ayNYLjBfvdx_p0VQB358zwNcQ/edit)
