@@ -11,12 +11,14 @@
 - [full.less](./full.less.txt) - весь LESS який є в Custom CSS
 - [full.js](./full.js.txt) - лишаємо пустий
 
-- [index.js](./index.js.txt) - мініфікований JS - [мініфікатор](https://www.toptal.com/developers/javascript-minifier)
-- [style.css](./style.css.txt) - [перетворений](https://jsonformatter.org/less-to-css) LESS в CSS і [мініфікований](https://www.toptal.com/developers/cssminifier) 
+- [index.js](./index.js.txt) - мініфікований JS - [мініфікатор](https://www.toptal.com/developers/javascript-minifier) 
+    мініфікуємо все шо в (function(path, collection){})();
 
+- [style.css](./style.css.txt) - ВЕСЬ Less [перетворений](https://jsonformatter.org/less-to-css) в CSS і [мініфікований](https://www.toptal.com/developers/cssminifier) 
 
  -- після цього всього на сайті:
  
 вставти в [Code Injection Header](./header-code-inj.txt)
 в [Code Injection Footer](./footer-code-inj.txt)
-в [Custom CSS](./custom.css)
+в [Custom CSS](./custom.css) не весь less, а лише :root{} та стилі лише де використовуються ці змінні, 
+[форматуємо](https://www.cssportal.com/css-formatter/) та [мініфікуємо](https://www.toptal.com/developers/cssminifier)  
