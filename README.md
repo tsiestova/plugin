@@ -15,7 +15,8 @@
 - [style.css](./style.css.txt) - [перетворений](https://jsonformatter.org/less-to-css) LESS в CSS і [мініфікований](https://www.toptal.com/developers/cssminifier) 
 
 
- -- після цього всього:
+ -- після цього всього на сайті:
  
 вставти в [Code Injection Header](./header-code-inj.txt)
 в [Code Injection Footer](./footer-code-inj.txt)
+в [Custom CSS](./custom.css)
