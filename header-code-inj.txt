@@ -1,0 +1,1 @@
+ <link href="https://ghosthub.boo/assets/blog-pagination-with-image-1234/style.css" rel="stylesheet"> (назва папки)

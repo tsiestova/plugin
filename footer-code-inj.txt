@@ -1,0 +1,9 @@
+<script>
+
+  const values = {
+  	 path: '/blog',
+    collectionClass: 'collection-66c58cc4781ed5709afa7a43',
+  };
+</script>
+
+<script src="https://ghosthub.boo/assets/blog-pagination-with-image-1234/index.js"></script>
