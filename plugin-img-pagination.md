@@ -1,0 +1,2 @@
+---Swiper
+- - [Swiper General](https://github.com/tsiestova/skeleton/blob/master/src/components/SwiperGeneral.html)
