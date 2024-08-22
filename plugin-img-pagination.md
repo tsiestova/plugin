@@ -1,8 +1,8 @@
 
 
 --Заходимо на [github](https://github.com/theghostco/ghost/tree/main/assets/)
-hulo-dev
-github_5779LER
+- hulo-dev
+- github_5779LER
 
 ---створюємо папку /blog-pagination-with-image-1234/ (назва папки з карточки в джирі+4 рандомні цифри)
 --- в цій папці створюємо файли:
