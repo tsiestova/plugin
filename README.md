@@ -1,8 +1,12 @@
 
 
---Заходимо на [github](https://github.com/theghostco/ghost/tree/main/assets/)
+--якщо в Jira немає 'sqsp' [github](https://github.com/theghostco/ghost/tree/main/assets/) ghost
 - hulo-dev
 - github_5779LER
+
+Якщо в Jira є 'sqsp' - [github](https://github.com/teamHulo/sqspthemes/tree/main/assets) sqspthemes
+team@hulo.dev
+github_5779LER
 
 ---створюємо папку /blog-pagination-with-image-1234/ (назва папки з карточки в джирі+4 рандомні цифри)
 --- в цій папці створюємо файли:

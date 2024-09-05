@@ -6,4 +6,9 @@
   };
 </script>
 
-<script src="https://ghosthub.boo/assets/blog-pagination-with-image-1234/index.js"></script>
+<script src="https://ghosthub.boo/assets/blog-pagination-with-image-1234/index.js"></script> -- GHOST
+
+<script src="https://sqspthemes.dev/assets/blog-pagination-with-image-1234/index.js"></script> -- sqspthemes
+
+
+
