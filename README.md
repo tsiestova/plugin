@@ -29,3 +29,16 @@ github_5779LER
 
 формуємо [гугл.док](./google.doc.txt)
 ще один [приклад](https://docs.google.com/document/d/1MAMlTs1WrFsj3fd9u_ayNYLjBfvdx_p0VQB358zwNcQ/edit)
+
+
+Plugins
+[Blog item with pagination image](https://marigold-decagon-mhdg.squarespace.com/)
+https://github.com/teamHulo/sqspthemes/tree/main/assets/blog-pagination-with-image-1234
+
+[Search](https://ukulele-brass-lldd.squarespace.com/)
+https://github.com/theghostco/ghost/tree/main/assets/search-bar-1234
+
+
+
+
+
